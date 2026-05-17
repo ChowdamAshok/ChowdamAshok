@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# 👋 Hi, I'm Chowdam Ashok
+#  Hi, I'm Chowdam Ashok
 
 ### 🚀 Full Stack Developer | AI Enthusiast
 
