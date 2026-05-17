@@ -39,39 +39,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 NovaMind
-AI chatbot platform with:
-- AI Chat
-- PDF Analysis
-- Image Understanding
-- Voice Transcription
-- Animated UI
-
-🔗 https://novamind-ruddy.vercel.app/
-
----
-
-## 🚌 Smart Trip Planner
-Travel booking & planning platform with:
-- Bus & Train Booking
-- Interactive Maps
-- AI Travel Assistant
-- Budget Trip Planning
-
-🔗 https://smart-trip-planner-phi.vercel.app/
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChowdamAshok&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChowdamAshok&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
